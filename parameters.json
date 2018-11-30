@@ -1,0 +1,15 @@
+{
+	"preemphasis": 0.97,
+	"n_fft": 400,
+	"hop_length": 200,
+	"win_length": 400,
+	"sample_rate": 16000,
+	"n_mels": 40,
+	"max_height": 201,
+	"max_width": 600,
+	"batch_size": 8,
+	"n_epochs": 100,
+	"learning_rate": 1e-4,
+	"betas": [0.5, 0.999]
+
+}
